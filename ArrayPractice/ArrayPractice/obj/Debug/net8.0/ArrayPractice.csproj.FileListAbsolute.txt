@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.exe
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.deps.json
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.runtimeconfig.json
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.dll
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\bin\Debug\net8.0\ArrayPractice.pdb
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.AssemblyInfo.cs
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.dll
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\refint\ArrayPractice.dll
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.pdb
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ArrayPractice.genruntimeconfig.cache
+C:\Users\caplo\source\repos\ArrayPractice\ArrayPractice\obj\Debug\net8.0\ref\ArrayPractice.dll
